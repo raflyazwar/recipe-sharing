@@ -1,15 +1,15 @@
 # 🍳 CookBook - Recipe Sharing Platform
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80">
+  <img src="https://i.ibb.co.com/ry1C80S/cookbook.png">
   
   <p align="center">
     A modern, user-friendly platform for discovering and sharing recipes
     <br />
-    <a href="https://github.com/yourusername/cookbook"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raflyazwar/recipe-sharing.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://cookbook-recipes.netlify.app/">View Demo</a>
+    <a href="https://cook-book-sharing.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -98,9 +98,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [yourwebsite.dev](https://yourwebsite.dev)
+**Rafly Azwar**
+- GitHub: [@raflyazwar](https://github.com/raflyazwar)
+- Website: [raflyazwar.dev](https://raflyazwar.vercel.app/)
 
 ## 🙏 Acknowledgments
 
@@ -109,16 +109,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Lucide React](https://lucide.dev) for icons
 - [Unsplash](https://unsplash.com) for beautiful food images
 
-## 💖 Support
+## 💖 Support Me
 
-If you find this project helpful, please consider giving it a ⭐️ on GitHub!
+If you appreciate my work and want to support me, you can do so through the following options:
 
-- **BagiBagi**: [Support on BagiBagi](https://bagibagi.co/yourusername)
-- **Saweria**: [Support on Saweria](https://saweria.co/yourusername)
-- **Socialbuzz**: [Support on Socialbuzz](https://sociabuzz.com/yourusername)
+- **BagiBagi**: [Support on BagiBagi](https://bagibagi.co/Raflyazwar)
+- **Saweria**: [Support on Saweria](https://saweria.co/Raflyazwar)
+- **Socialbuzz**: [Support on Socialbuzz](https://sociabuzz.com/raflyazwar)
 
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/raflyazwar">Rafly Azwar</a>
 </div>
